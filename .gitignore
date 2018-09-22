@@ -1,5 +1,5 @@
-# ignore command lin
-/events
+# ignore command line escript
+events
 
 # The directory Mix will write compiled artifacts to.
 /_build/
